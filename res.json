@@ -1,0 +1,59 @@
+{
+  "Creme Brulee": {
+    "cheapestCost": 7.131584999999999,
+    "nutrientsAtCheapestCost": {
+      "Carbohydrates": {
+        "nutrientName": "Carbohydrates",
+        "quantityAmount": {
+          "uomAmount": 106.1,
+          "uomName": "grams",
+          "uomType": "mass"
+        },
+        "quantityPer": {
+          "uomAmount": 100,
+          "uomName": "grams",
+          "uomType": "mass"
+        }
+      },
+      "Fat": {
+        "nutrientName": "Fat",
+        "quantityAmount": {
+          "uomAmount": 35,
+          "uomName": "grams",
+          "uomType": "mass"
+        },
+        "quantityPer": {
+          "uomAmount": 100,
+          "uomName": "grams",
+          "uomType": "mass"
+        }
+      },
+      "Protein": {
+        "nutrientName": "Protein",
+        "quantityAmount": {
+          "uomAmount": 17.2,
+          "uomName": "grams",
+          "uomType": "mass"
+        },
+        "quantityPer": {
+          "uomAmount": 100,
+          "uomName": "grams",
+          "uomType": "mass"
+        }
+      },
+      "Sodium": {
+        "nutrientName": "Sodium",
+        "quantityAmount": {
+          "uomAmount": 0.001,
+          "uomName": "grams",
+          "uomType": "mass"
+        },
+        "quantityPer": {
+          "uomAmount": 100,
+          "uomName": "grams",
+          "uomType": "mass"
+        }
+      }
+    }
+  }
+}
